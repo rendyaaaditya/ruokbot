@@ -54,5 +54,4 @@ ket : ✅ : aktif
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ## DONASI
-*
-GOPAY : 082287848436
+* GOPAY : 082287848436
