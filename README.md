@@ -55,3 +55,4 @@ ket : ✅ : aktif
 
 ## DONASI
 *
+GOPAY : 082287848436
